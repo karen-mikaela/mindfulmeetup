@@ -1,0 +1,53 @@
+
+body {
+	width:100%;
+}
+
+.header {
+	width: 100%;
+	position: fixed;
+	min-height: 70px;
+	z-index: 1;
+	background: white;
+}
+
+.logo img {
+	height: 100px;
+}
+
+.navbar div {
+	padding-top: 3%;
+	text-align: center;
+
+
+}
+
+
+.splash {
+	background: url(images/splash-placeholder.jpeg);
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 70%;
+  width: 100%;
+}
+
+
+
+.textbox {
+	background: white;
+	display: block;
+
+}
+
+.recomend {
+
+}
+
+
+
+.footercontact {
+
+}
+
